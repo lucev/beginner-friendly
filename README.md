@@ -38,7 +38,7 @@ The list of beginner-friendly labels and Ruby projects that use them for GitHub 
 
 ## **low hanging fruit**
 [is:open label:"low hanging fruit](https://github.com/search?l=Ruby&q=is%3Aopen+label%3A%22low+hanging+fruit%22&type=Issues&utf8=%E2%9C%93)
-* [RubyCop](https://github.com/bbatsov/rubocop/labels/low%20hanging%20fruit) <br> A Ruby static code analyzer, based on the community Ruby style guide.
+* [RuboCop](https://github.com/bbatsov/rubocop/labels/low%20hanging%20fruit) <br> A Ruby static code analyzer, based on the community Ruby style guide.
 * [Logstash](https://github.com/elastic/logstash/labels/low%20hanging%20fruit) <br> Transport and process your logs, events, or other data https://www.elastic.co/products/logstash
 * [OpenFarm](https://github.com/openfarmcc/OpenFarm/labels/low%20hanging%20fruit) <br> A free and open database for farming and gardening knowledge.
 
