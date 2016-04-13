@@ -1,8 +1,8 @@
-# Beginner Friendly Issues
+# Beginner-Friendly Issues
 
-Probably the hardest problem for newcomers who are trying to contribute to open source projects is to find a beginner-friendly issue they are able to understand and resolve. One way to search for them is using issue labels on GitHub.
+Probably the hardest problem for newcomers who are trying to contribute to open-source projects is to find a beginner-friendly issue they are able to understand and resolve. One way to search for them is to use the issue labels on GitHub.
 
-This is a list of commonly used beginner-friendly labels extended with some Ruby projects or organizations that use them to indicate issues appropriate for an open source newcomer.
+This is a list of common beginner-friendly labels used by some Ruby projects and organizations to indicate issues appropriate for an open-source newcomer.
 
 ### **beginner**
 [is:open label:beginner](https://github.com/search?l=Ruby&q=is%3Aopen+label%3A%22beginner%22&type=Issues&utf8=%E2%9C%93)
