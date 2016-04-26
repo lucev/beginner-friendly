@@ -8,6 +8,7 @@ This is a list of common beginner-friendly labels used by some Ruby projects and
 [is:open label:beginner](https://github.com/search?l=Ruby&q=is%3Aopen+label%3A%22beginner%22&type=Issues&utf8=%E2%9C%93)
 
 * [JRuby](https://github.com/jruby/jruby/labels/beginner) <br> an implementation of Ruby on the JVM http://www.jruby.org
+* [Rails ERD](https://github.com/voormedia/rails-erd/labels/Beginner) <br> Generate Entity-Relationship Diagrams for Rails applications
 * [Planner](https://github.com/codebar/planner/labels/beginner) <br> A tool to help manage [codebar.io](https://codebar.io) members and events.
 * [Flatcar](https://github.com/flatcar/flatcar/labels/beginner) <br> Rails development environment manager
 * [speakerinnen_liste](https://github.com/rubymonsters/speakerinnen_liste/labels/beginner) <br> International Women Speaker Directory www.speakerinnen.org
