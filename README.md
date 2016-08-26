@@ -12,6 +12,7 @@ This is a list of common beginner-friendly labels used by some Ruby projects and
 * [Planner](https://github.com/codebar/planner/labels/beginner) <br> A tool to help manage [codebar.io](https://codebar.io) members and events.
 * [Flatcar](https://github.com/flatcar/flatcar/labels/beginner) <br> Rails development environment manager
 * [speakerinnen_liste](https://github.com/rubymonsters/speakerinnen_liste/labels/beginner) <br> International Women Speaker Directory www.speakerinnen.org
+* [Goby](https://github.com/nskins/goby) <br> Ruby framework for developing text-RPGs.
 
 ### **beginner friendly**
 [is:open label:"beginner friendly"](https://github.com/search?l=Ruby&q=is%3Aopen+label%3A%22beginner+friendly%22&type=Issues&utf8=%E2%9C%93)
@@ -58,4 +59,3 @@ This is a list of common beginner-friendly labels used by some Ruby projects and
 
 ## Contributing
 Contributions are welcome! If anything is missing please open a pull request. Thanks!
-
